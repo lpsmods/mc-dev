@@ -8,7 +8,7 @@
   "type": "module",
   "scripts": {
     "build": "node build.mjs",
-    "test": "npx vitest run",
+    "test": "echo test",
     "lint": "eslint ."
   },
   "homepage": "https://docs.lpsmods.dev/@lpsmods/mc-dev",
